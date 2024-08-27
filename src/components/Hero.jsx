@@ -4,7 +4,7 @@ import bineet from "../assets/bineet.jpg";
 const Hero = () => {
   return (
     <section>
-        <div className="flex flex-col items-center justify content">
+        <div className="flex flex-col items-center justify content" id="home">
             <h1 className="mt-16 overflow-hidden text-[12vw] font-semibold uppercase
              leading-none">
                 Bineet <br/> Jha
