@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section>
         <div className="flex flex-col items-center justify content" id="home">
-            <h1 className="mt-16 overflow-hidden text-[12vw] font-semibold uppercase
+            <h1 className="mt-16 overflow-hidden text-[16vw] font-semibold uppercase
              leading-none">
                 Bineet <br/> Jha
              </h1>
