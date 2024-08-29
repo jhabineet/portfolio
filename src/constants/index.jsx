@@ -33,7 +33,7 @@ export const PROJECTS = [
     description:
       "A full-featured Movie Recommender System website built with Streamlit(Python) and Machine Learning.",
     imgSrc: project1,
-    link: "https://github.com/jhabineet/nearby-tracker",
+    link: "https://github.com/jhabineet/Movie-recommend-system",
   },
   {
     id: 2,
@@ -49,7 +49,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website to showcase projects and skills.",
     imgSrc: project3,
-    link: "https://example.com/portfolio-website",
+    link: "https://github.com/jhabineet/portfolio",
   },
   {
     id: 4,
@@ -103,7 +103,7 @@ export const ABOUT =
 
 export const EXPERIENCES = [
   {
-    company: "Google Developer Student CLub ( Present )",
+    company: "Google Developer Student CLub - JISCE ( Present )",
     role: "MERN DEVELOPER",
     year: "12/2023 - Present",
     description:
@@ -155,5 +155,5 @@ export const SOCIAL_MEDIA_LINKS = [
 export const CONTACT = {
   text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
   email: "jhabineet0@gmail.com",
-  phone: "(+91 - 7605887369)",
+  phone: "(+91 760-588-7369)",
 };
