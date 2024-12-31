@@ -111,7 +111,7 @@ export const EXPERIENCES = [
   {
     company: "Google Developer Student CLub - JISCE ( Present )",
     role: "MERN DEVELOPER",
-    year: "12/2023 - Present",
+    year: "12/2023 - 08/2024",
     description:
       "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
   },
