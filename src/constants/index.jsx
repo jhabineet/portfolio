@@ -103,6 +103,12 @@ export const ABOUT =
 
 export const EXPERIENCES = [
   {
+    company: "The Moronss",
+    role: "NATIVE DEVELOPER ( IOS + ANDROID )",
+    year: "09/2023 - 12/2024",
+    description:
+      "Led weekly group workshops on React Native best practices, leading to a increase in participants' ability to build  scalable android & IOS applications. Designing the company's main Mobile Application, using Native App, choosing Expo for cross functional platforms for IOS and Android. Development Native, resulting in an average increase of 30% in their coding proficiency"},
+  {
     company: "Google Developer Student CLub - JISCE ( Present )",
     role: "MERN DEVELOPER",
     year: "12/2023 - Present",
